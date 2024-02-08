@@ -1,6 +1,0 @@
-id name company salarty
-1 sachin TCS 2300
-2 rohit infy 3200
-3 virat WIP 4500
-4 shubham cog 4000
-5 rinku wip 2600
